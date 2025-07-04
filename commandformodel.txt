@@ -1,0 +1,15 @@
+Anaconda Prompt
+
+cd Desktop\ANPR
+
+conda create -n number python=3.7 -y
+conda activate number
+
+
+pip install -r requirements.txt
+
+
+
+
+python main.py
+
